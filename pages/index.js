@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ninja List | Home</title>
+        <title>Animal List | Home</title>
         <meta name="keywords" content="ninjas" />
       </Head>
       <div>
@@ -32,7 +32,7 @@ export default function Home() {
           dolore ut proident. Ipsum enim in pariatur velit.
         </p>
         <Link href="/ninjas">
-          <a className={styles.btn}>See ninja list</a>
+          <a className={styles.btn}>See animal list</a>
         </Link>
       </div>
     </>
